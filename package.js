@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function (api) {
 
-  api.versionsFrom('1.8.1');
+  api.versionsFrom('2.5');
 
   api.addFiles('eventemitter.client.js', 'client');
 
